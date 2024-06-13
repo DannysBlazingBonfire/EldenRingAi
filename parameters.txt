@@ -1,0 +1,42 @@
+to improve: use mana potion, more rolls, more agressive, check if image recongition works on healthbar to heal
+
+total percentage = 100%
+
+moves:
+--------------
+move right 3% 
+
+move left 3%
+
+move forward 10%
+
+move back 3%
+
+roll forward 12%
+
+roll back 3%
+
+roll right 6%
+
+roll left 6%
+--------------
+attacks:
+--------------
+lightattack 12.5%
+
+heavy attack 2.5%
+
+skill attack 8%
+
+jump attack 4%
+
+rollforattack 5%
+
+double light 8.5%
+
+triple light 8.5%
+--------------
+other:
+--------------
+heal 5%
+--------------
