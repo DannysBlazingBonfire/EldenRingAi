@@ -6,3 +6,5 @@ in order to run the script use a python compatible IDE and click run or optional
 Python filename.py + ENTER
 
 to make the script stop just hold the 'Q' button on the keyboard
+
+This can be used for PVP with friends or against enemies in PVE
